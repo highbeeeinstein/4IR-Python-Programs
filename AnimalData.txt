@@ -1,0 +1,9 @@
+Whale
+Fish
+Hen
+Sheep
+Goat
+Lizard
+Lion
+Elephant
+Leopard

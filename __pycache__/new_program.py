@@ -1,0 +1,6 @@
+print("Ibraheem              Python")
+print("     *    ")
+print("   *   *")
+print("  *     *")
+print(" *       *")
+print(" *********")

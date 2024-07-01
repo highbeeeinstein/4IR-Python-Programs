@@ -1,0 +1,8 @@
+red
+blue
+yellow
+pink
+green
+magenta
+black
+violet
